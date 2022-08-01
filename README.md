@@ -1,1 +1,1 @@
-# Website url: https://b-cycle.herokuapp.com/
+# Website url: https://literary.netlify.app
